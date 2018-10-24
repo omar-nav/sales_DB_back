@@ -2,6 +2,7 @@
 
 Pasos para ejecutar localmente.
 Instalar Node.js en el sistema.
+
 [Node.js](https://nodejs.org/es/download/)
 
 1) Clonar este repositorio

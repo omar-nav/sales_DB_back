@@ -1,6 +1,7 @@
 # sales_db_back
 
 Pasos para ejecutar localmente.
+Instalar Node.js en el sistema.
 
 1) Clonar este repositorio
 2) Ejecutar 'npm i' adentro la carpeta
